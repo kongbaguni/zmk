@@ -54,12 +54,3 @@
                 };
         };
 };
-
-
-&nice_view {
-    compatible = "nice,nice-view";
-    display {
-        label = "EPD";
-        rotation = 180;
-    };
-};
